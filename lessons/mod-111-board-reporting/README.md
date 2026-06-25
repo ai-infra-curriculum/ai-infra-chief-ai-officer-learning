@@ -78,7 +78,7 @@ mod-111-board-reporting/
 
 ## Paired solutions repo
 
-[`ai-infra-chief-ai-officer-solutions / modules/mod-111-board-reporting`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions/tree/main/modules/mod-111-board-reporting)
+[`ai-infra-chief-ai-officer-solutions / modules/mod-111-board-reporting`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions/tree/main/modules/mod-111-board-reporting)
 
 ---
 

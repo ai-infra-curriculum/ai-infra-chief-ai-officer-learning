@@ -97,7 +97,7 @@ This capstone exercises:
 ## Paired solutions
 
 [`ai-infra-chief-ai-officer-solutions /
-projects/project-302-eu-ai-act-high-risk-response`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions/tree/main/projects/project-302-eu-ai-act-high-risk-response)
+projects/project-302-eu-ai-act-high-risk-response`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions/tree/main/projects/project-302-eu-ai-act-high-risk-response)
 
 ---
 

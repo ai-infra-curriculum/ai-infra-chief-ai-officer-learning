@@ -113,7 +113,7 @@ solution could plausibly have gone differently.
 ## Paired solutions
 
 [`ai-infra-chief-ai-officer-solutions /
-projects/project-301-stand-up-ai-governance-program`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions/tree/main/projects/project-301-stand-up-ai-governance-program)
+projects/project-301-stand-up-ai-governance-program`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions/tree/main/projects/project-301-stand-up-ai-governance-program)
 
 ---
 

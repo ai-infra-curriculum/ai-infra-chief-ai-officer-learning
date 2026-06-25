@@ -43,7 +43,7 @@ project-304-llm-data-leak-response/
 
 ## Reference solutions
 
-[`ai-infra-chief-ai-officer-solutions / project-304-llm-data-leak-response`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions/tree/main/projects/project-304-llm-data-leak-response).
+[`ai-infra-chief-ai-officer-solutions / project-304-llm-data-leak-response`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions/tree/main/projects/project-304-llm-data-leak-response).
 
 ---
 

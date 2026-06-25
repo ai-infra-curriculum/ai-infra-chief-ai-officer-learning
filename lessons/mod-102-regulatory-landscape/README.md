@@ -89,7 +89,7 @@ issue.
 
 ## Paired solutions repo
 
-[`ai-infra-chief-ai-officer-solutions / modules/mod-102-regulatory-landscape`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions/tree/main/modules/mod-102-regulatory-landscape)
+[`ai-infra-chief-ai-officer-solutions / modules/mod-102-regulatory-landscape`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions/tree/main/modules/mod-102-regulatory-landscape)
 
 Same convention as mod-101 — worked answers, not the answer.
 

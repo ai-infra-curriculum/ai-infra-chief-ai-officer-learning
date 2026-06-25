@@ -37,7 +37,7 @@ project-303-mrm-buildout/
 
 ## Reference solutions
 
-[`ai-infra-chief-ai-officer-solutions / project-303-mrm-buildout`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions/tree/main/projects/project-303-mrm-buildout).
+[`ai-infra-chief-ai-officer-solutions / project-303-mrm-buildout`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions/tree/main/projects/project-303-mrm-buildout).
 
 Each deliverable has a reference solution
 with reasoning notes naming where the work

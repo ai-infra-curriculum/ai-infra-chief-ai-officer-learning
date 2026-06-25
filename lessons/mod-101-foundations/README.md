@@ -77,7 +77,7 @@ later module and want a refresher, the canonical definition lives in
 
 ## Paired solutions repo
 
-[`ai-infra-chief-ai-officer-solutions`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions) carries the reference solutions for every exercise.
+[`ai-infra-chief-ai-officer-solutions`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions) carries the reference solutions for every exercise.
 Each is a *worked answer*, not the answer — there is no single
 correct governance program. Reference solutions are written to
 show one defensible path and the reasoning behind the trade-offs.

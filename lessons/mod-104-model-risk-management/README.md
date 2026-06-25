@@ -80,7 +80,7 @@ the citation and the source disagree, the source wins.
 
 ## Paired solutions repo
 
-[`ai-infra-chief-ai-officer-solutions / modules/mod-104-model-risk-management`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions/tree/main/modules/mod-104-model-risk-management)
+[`ai-infra-chief-ai-officer-solutions / modules/mod-104-model-risk-management`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions/tree/main/modules/mod-104-model-risk-management)
 
 ---
 

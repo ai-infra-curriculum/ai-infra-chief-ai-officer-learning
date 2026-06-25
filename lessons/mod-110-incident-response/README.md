@@ -76,7 +76,7 @@ mod-110-incident-response/
 
 ## Paired solutions repo
 
-[`ai-infra-chief-ai-officer-solutions / modules/mod-110-incident-response`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions/tree/main/modules/mod-110-incident-response)
+[`ai-infra-chief-ai-officer-solutions / modules/mod-110-incident-response`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions/tree/main/modules/mod-110-incident-response)
 
 ---
 

@@ -6,7 +6,7 @@ work the quiz at the end of the module, score yourself, then
 revisit the lecture sections where you missed questions.
 
 Answer key lives in the paired solutions repo:
-[`ai-infra-chief-ai-officer-solutions / modules/mod-101-foundations/quiz-key.md`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions/blob/main/modules/mod-101-foundations/quiz-key.md)
+[`ai-infra-chief-ai-officer-solutions / modules/mod-101-foundations/quiz-key.md`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions/blob/main/modules/mod-101-foundations/quiz-key.md)
 
 ---
 

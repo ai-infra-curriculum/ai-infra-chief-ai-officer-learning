@@ -40,7 +40,7 @@ discipline rather than breadth.
 
 ## Reference solutions
 
-[`ai-infra-chief-ai-officer-solutions / project-305-quarterly-board-report`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions/tree/main/projects/project-305-quarterly-board-report).
+[`ai-infra-chief-ai-officer-solutions / project-305-quarterly-board-report`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions/tree/main/projects/project-305-quarterly-board-report).
 
 ---
 

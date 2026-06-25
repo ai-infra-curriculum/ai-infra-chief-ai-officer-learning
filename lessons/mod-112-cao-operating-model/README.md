@@ -85,7 +85,7 @@ exercises don't pretend there's one right answer.
 
 ## Paired solutions repo
 
-[`ai-infra-chief-ai-officer-solutions / modules/mod-112-cao-operating-model`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions/tree/main/modules/mod-112-cao-operating-model)
+[`ai-infra-chief-ai-officer-solutions / modules/mod-112-cao-operating-model`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions/tree/main/modules/mod-112-cao-operating-model)
 
 ---
 

@@ -81,7 +81,7 @@ mod-109-compliance-operations/
 
 ## Paired solutions repo
 
-[`ai-infra-chief-ai-officer-solutions / modules/mod-109-compliance-operations`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions/tree/main/modules/mod-109-compliance-operations)
+[`ai-infra-chief-ai-officer-solutions / modules/mod-109-compliance-operations`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions/tree/main/modules/mod-109-compliance-operations)
 
 ---
 

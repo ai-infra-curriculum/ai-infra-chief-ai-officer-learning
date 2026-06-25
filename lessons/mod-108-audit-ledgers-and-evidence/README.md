@@ -95,7 +95,7 @@ quietest part of the program.
 
 ## Paired solutions repo
 
-[`ai-infra-chief-ai-officer-solutions / modules/mod-108-audit-ledgers-and-evidence`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions/tree/main/modules/mod-108-audit-ledgers-and-evidence)
+[`ai-infra-chief-ai-officer-solutions / modules/mod-108-audit-ledgers-and-evidence`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions/tree/main/modules/mod-108-audit-ledgers-and-evidence)
 
 ---
 

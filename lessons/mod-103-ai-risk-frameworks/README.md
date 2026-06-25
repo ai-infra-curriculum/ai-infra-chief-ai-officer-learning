@@ -84,7 +84,7 @@ exercise for the working form.
 
 ## Paired solutions repo
 
-[`ai-infra-chief-ai-officer-solutions / modules/mod-103-ai-risk-frameworks`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions/tree/main/modules/mod-103-ai-risk-frameworks)
+[`ai-infra-chief-ai-officer-solutions / modules/mod-103-ai-risk-frameworks`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions/tree/main/modules/mod-103-ai-risk-frameworks)
 
 Same conventions — worked answers, not the answer.
 

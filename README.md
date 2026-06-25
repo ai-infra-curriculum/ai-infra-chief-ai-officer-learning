@@ -22,7 +22,7 @@ ai-infra-chief-ai-officer-learning/
 
 ## Paired Solutions Repo
 
-[`ai-infra-chief-ai-officer-solutions`](https://github.com/ai-infra-curriculum/ai-infra-chief-ai-officer-solutions) carries the reference implementations.
+[`ai-infra-chief-ai-officer-solutions`](https://github.com/ai-governance-curriculum/chief-ai-officer-solutions) carries the reference implementations.
 
 ---
 
